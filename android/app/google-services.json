@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "7827988881",
+    "project_id": "praktikum-a2adc",
+    "storage_bucket": "praktikum-a2adc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:ca1eb2609e3ccbe16cfa30",
+        "android_client_info": {
+          "package_name": "com.example.hw_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:c5d1ed95705b170b6cfa30",
+        "android_client_info": {
+          "package_name": "com.example.hwapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:5f8a82fff42dd2596cfa30",
+        "android_client_info": {
+          "package_name": "com.example.ukm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:1a90f9cad186e4b86cfa30",
+        "android_client_info": {
+          "package_name": "com.hw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:6c621d33c9bac6576cfa30",
+        "android_client_info": {
+          "package_name": "com.hwapp.hwapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:1fa41d09d12ca94c6cfa30",
+        "android_client_info": {
+          "package_name": "com.module3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7827988881-eccjoua1at7pgmhf5cd1q7e76dfrieb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7827988881-1l586r79lf696mc3jjl9sauj9ns1p1qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hwmobile.hwmobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
